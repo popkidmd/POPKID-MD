@@ -6,6 +6,14 @@
 
 ---
 
+## 🖼️ Bot Visual
+
+A peek at the look and feel of **POPKID-MD**.
+
+![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
+
+---
+
 ## ⚡ POPKID MD: The Ultimate Statement
 
 Our signature Typing SVG now features custom text and the bold Montserrat font for maximum impact:
@@ -28,14 +36,6 @@ Our signature Typing SVG now features custom text and the bold Montserrat font f
 | **🔒** | **Data Secure** | Designed with user privacy and security as the top priority. |
 | **🛠️** | **Versatile** | A comprehensive suite of commands for utility, entertainment, and admin tasks. |
 | **💡** | **Simple Setup** | Get the bot running in minutes with our easy-to-follow session pairing process. |
-
----
-
-## 🖼️ Bot Visual
-
-A peek at the look and feel of **POPKID-MD**.
-
-![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
 
 ---
 
