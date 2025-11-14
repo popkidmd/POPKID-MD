@@ -18,7 +18,7 @@ A peek at the look and feel of **POPKID-MD**.
 
 Our signature Typing SVG now features custom text and the bold Montserrat font for maximum impact:
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=4000&color=00FFFF&center=true&vCenter=true&lines=POPKID%20MD|WHATSAPP%20BOT|CREATED%20BY%20POPKID%202025)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=4000&color=00FFFF&center=true&vCenter=true&lines=POPKID%20MD|BOT)
 
 ---
 
