@@ -28,7 +28,7 @@
 
 ## 🔑 **2. 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗**
 
-[![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=white)](https://sessionscannertbfhfhfjfjfkg.onrender.com)
+[![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=white)](https://popkidmainer-19b501ea270f.herokuapp.com/)
 
 ---
 
