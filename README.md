@@ -1,86 +1,76 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
+# Hi there — I'm zksperx-spec 👋
 
-![Status Badge](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=whatsapp)
-![Version Badge](https://img.shields.io/badge/VERSION-v1.0-blue?style=for-the-badge&logo=git)
-![License Badge](https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge)
+> Building fast, secure, and elegant software that scales — and having fun while doing it.
 
----
-
-![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
+I'm a passionate developer who loves solving hard problems with clean design, robust engineering, and open collaboration. I work across the full stack, with a focus on performance, developer experience, and long-term maintainability.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&weight=700&lines=POPKID%20MD|BOT)
-
----
-## 𝗚𝗘𝗧 𝗙𝗥𝗘𝗘 𝗕𝗢𝗧💛
-
-[![Get Mini Bot Here](https://img.shields.io/badge/GET%20MINI%20BOT%20HERE-%23FF512F%20%7C%20%23DD2476?style=for-the-badge&logo=rocket&logoColor=white)](https://popkid-direct-pair-version-fc79abbae43a.herokuapp.com/)
-
----
-# 🔧 **sᴇᴛ ᴜᴘ ❣️**
-
-## ⭐ **1. 𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗕𝗢𝗧**
-
-[![Fork the Repository](https://img.shields.io/badge/FORK%20REPOSITORY-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/popkidmd/POPKID-MD/fork)
+## 🚀 What I do
+- Build web applications and APIs with an emphasis on reliability and speed.
+- Design modular architectures and developer-friendly tooling.
+- Automate repetitive workflows and improve CI/CD pipelines.
+- Mentor teammates and contribute to open source.
 
 ---
 
-## 🔑 **2. 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗**
+## 🛠️ Technologies & Tools
+- Languages: JavaScript / TypeScript, Rust, Go, Python
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express, FastAPI, gRPC
+- Databases: PostgreSQL, Redis, MongoDB
+- DevOps: Docker, Kubernetes, GitHub Actions, Terraform
+- Testing & Quality: Jest, Playwright, ESLint, Prettier
 
-[![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=white)](https://popkidonlineset.onrender.com)
-
----
-
-## 🚀 **3. 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧✅**
-
-### **Heroku**
-
-[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY%20TO%20HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/popkidmd/POPKID-MD)
-
-### **Render**
-
-[![Deploy to Render](https://img.shields.io/badge/DEPLOY%20TO%20RENDER-000000?style=for-the-badge&logo=render&logoColor=white)](https://render.com/deploy)
-
-### **Koyeb**
-
-[![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com/deploy)
-
-### **Railway**
-
-[![Deploy on Railway](https://img.shields.io/badge/DEPLOY%20ON%20RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new)
+(If you'd like, I can swap these for your exact tech stack.)
 
 ---
 
-# 🎯 **Project Overview**
+## ⭐ Featured projects
+- [Project A](#) — Short description of what it does and why it's cool.  
+- [Project B](#) — Short description highlighting a technical achievement.  
+- [Project C](#) — Short description showing impact or scale.
 
-> **POPKID-MD** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **popkid**.
-
----
-
-# ✨ **Core Features**
-
-| Icon | Feature | Description |
-|:---:|:---|:---|
-| 🚀 | **Ultra Fast** | Engine optimized for low latency performance. |
-| 🔒 | **Data Secure** | Prioritizes privacy and safe data handling. |
-| 🛠️ | **Versatile Tools** | Includes admin tools, fun commands, downloader, AI & more. |
-| 💡 | **Easy Setup** | Pair and deploy your bot in minutes. |
+Add your top projects and I’ll format these with badges, screenshots, and concise impact metrics.
 
 ---
 
-## 📦 **Repository**
-
-[![GitHub Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/popkidmd/POPKID-MD)
-
----
-
-## 📢 **Community Support**
-
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN%20WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r)
+## 📈 GitHub Stats
+- Open to showcasing GitHub stats, streaks, contribution graphs, or top languages.  
+Let me know which badges or widgets you'd like and I’ll add them.
 
 ---
 
-## ©️ **Creator**
+## 🤝 Open to
+- Freelance / contract work
+- Full-time roles (specify remote / on-site / timezone preferences)
+- Mentoring and code reviews
+- Collaboration on open-source projects
 
-Developed with ❤️ by **popkid**.
+---
+
+## ✉️ Get in touch
+- Website: https://your-website.example
+- Email: your.name@example.com
+- Twitter / X: @yourhandle
+- LinkedIn: linkedin.com/in/your-profile
+- Mastodon: @your@instance
+(Replace the placeholders above with your real links.)
+
+---
+
+## 🎯 My goals
+1. Build software that helps people and teams move faster.
+2. Contribute to open source projects that have meaningful impact.
+3. Continuously learn and share knowledge with the community.
+
+---
+
+## 🧩 Fun facts
+- Coffee or tea? ☕
+- Favorite dev snack: Pizza 🍕
+- Currently learning: e.g., WASM, distributed tracing, or domain-driven design
+
+---
+
+Thanks for stopping by — check out my pinned repos below or reach out if you'd like to collaborate!
