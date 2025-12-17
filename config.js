@@ -15,7 +15,7 @@ module.exports = {
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
     
     // --- OWNER/DEV SETTINGS ---
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "40987214",
     OWNER_NAME: process.env.OWNER_NAME || "POPKID",
     DEV: process.env.DEV || "254732297194", // Developer number
 
@@ -23,13 +23,13 @@ module.exports = {
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Auto read private messages
     READ_CMD: process.env.READ_CMD || "false", // Mark commands as read
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false", // Always show online status
-    AUTO_TYPING: process.env.AUTO_TYPING || "true", // Auto show typing status
+    AUTO_TYPING: process.env.AUTO_TYPING || "false", // Auto show typing status
     AUTO_RECORDING: process.env.AUTO_RECORDING || "true", // Auto show recording status
     
     // --- REPLIES & MEDIA ---
-    AUTO_REPLY: process.env.AUTO_REPLY || "true", // Automatic text reply
-    MENTION_REPLY: process.env.MENTION_REPLY || "true", // Auto voice reply on mention
-    AUTO_VOICE: process.env.AUTO_VOICE || "true", // Automatic voices
+    AUTO_REPLY: process.env.AUTO_REPLY || "false", // Automatic text reply
+    MENTION_REPLY: process.env.MENTION_REPLY || "false", // Auto voice reply on mention
+    AUTO_VOICE: process.env.AUTO_VOICE || "false", // Automatic voices
     AUTO_STICKER: process.env.AUTO_STICKER || "false", // Automatic stickers
     STICKER_NAME: process.env.STICKER_NAME || "POPKID-MD", // Sticker pack name
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/kiy0hl.jpg", // Menu image
@@ -42,8 +42,8 @@ module.exports = {
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍", // Custom react emojis
     
     // --- STATUS SETTINGS ---
-    AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true", // Auto view statuses
-    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true", // Auto react on statuses
+    AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false", // Auto view statuses
+    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false", // Auto react on statuses
     AUTO_STATUS_REACT_EMOJI: process.env.AUTO_STATUS_REACT_EMOJI || "❎", // Custom status reaction emoji (New)
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false", // Auto reply on status (Enabled)
     AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || ".𝗦𝗘𝗘𝗡 𝗬𝗢𝗨𝗥 𝗦𝗧𝗔𝗧𝗨𝗦 𝗕𝗬 𝗣𝗢𝗣𝗞𝗜𝗗 𝗫𝗧𝗥🔄", // Status reply message
