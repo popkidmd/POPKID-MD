@@ -28,7 +28,7 @@
 
 ## 🔑 **2. 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗**
 
-[![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=white)](https://popkid-get-your-id-e1e23276b30a.herokuapp.com/)
+[![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=white)](https://getmyidpopkid.onrender.com/)
 
 ---
 
