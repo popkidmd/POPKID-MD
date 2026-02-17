@@ -9,12 +9,13 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "POPKID;;;HcURgQQT#el1w53_DkYDDW13cEvqw0q80vHfOfnyZO_cyAL0mAUU",
     
     // ====== Status Settings ======
+    // These match the logic in the index.js I fixed for you
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-    STATUS_READ_EMOJI: process.env.STATUS_READ_EMOJI || "🧡", // Fixed: Added this for your index.js
     AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*𝐏𝐎𝐏𝐊𝐈𝐃 𝐌𝐃 𝐕𝐈𝐄𝐖𝐄𝐃✅*",
-    CUSTOM_STATUS_EMOJIS: process.env.CUSTOM_STATUS_EMOJIS || "❤️,✨,🔥,💯,👑",
+    // This allows you to pick specific emojis for status reactions
+    CUSTOM_STATUS_EMOJIS: process.env.CUSTOM_STATUS_EMOJIS || "❤️,✨,🔥,💯,👑,🥰,😇,🧡",
 
     // ====== Anti-Delete Config ======
     ANTI_DELETE: process.env.ANTI_DELETE || "false",
@@ -31,7 +32,7 @@ module.exports = {
     
     // ====== Automation & UI ======
     AUTO_BIO: process.env.AUTO_BIO || "true",
-    TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", // Fixed: Set to local time for correct Bio
+    TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", 
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/aapw1p.png",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/aapw1p.png",
     DESCRIPTION: process.env.DESCRIPTION || "*𝙿𝙾𝙿𝙺𝙸𝙳 𝚇𝙼𝙳 𝙱𝙾𝚃😇*",
