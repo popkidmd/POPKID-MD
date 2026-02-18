@@ -32,7 +32,7 @@
 [![Fork](https://img.shields.io/badge/FORK-00FFFF?style=for-the-badge&logo=gitlab&logoColor=black)](https://github.com/popkidmd/POPKID-MD/fork)
 
 **2. Get Session ID**  
-[![Session](https://img.shields.io/badge/GET%20SESSION-9D00FF?style=for-the-badge&logo=link&logoColor=white)](https://popkid-xmd-scan-url.onrender.com)
+[![Session](https://img.shields.io/badge/GET%20SESSION-9D00FF?style=for-the-badge&logo=link&logoColor=white)](https://popkid-new-scanner-link.onrender.com)
 
 ---
 
