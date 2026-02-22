@@ -32,7 +32,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^4.0.0",
     "google-tts-api": "^2.0.2",
-    "gifted-btns": "^1.0.0",
+    "gifted-btns": "^1.0.2",
     "node-fetch": "^2.6.1",
     "btch-downloader": "^2.2.9",
     "megajs": "^1.1.0",
